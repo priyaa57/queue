@@ -30,3 +30,13 @@ newnode->next=First
 head->next=newnode;
 
 inserting the node in the end of linked list
+if(i=1;temp->next!=NULL)
+temp->next=nextnode
+newnode->next->NULL
+
+insertion at particular position 
+p=4
+for(i=1;i<p-2;i++)
+{
+    newnode->next=currentnode->next
+}
